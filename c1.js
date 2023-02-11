@@ -2,6 +2,7 @@
 // 文件功能：LXL平台下BlackBe云黑与本地黑名单工具
 // 作者：yqs112358 & BlackBE运营团队
 // 首发平台：MineBBS
+// 经过修改，阉割大部分命令防止命令冲突
 
 var _VER = '1.9.1'
 var _BLACKBE_ADDRESS_PREFIX = "https://api.blackbe.work/openapi/v3/check/?"
